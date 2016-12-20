@@ -1,0 +1,6 @@
+name: Float Left
+type: theme
+description: 'A simple base theme for Drupal.'
+package: Other
+core: 8.x
+base theme: stable
